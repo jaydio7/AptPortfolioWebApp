@@ -91,6 +91,8 @@ The project currently has a different servlet controller for each post method. T
 
 Query system is not robust, only lists all entries in database, updates an entry, creates new entry, deletes row based on PK. No custom queries functions are implemented.
 
+There are several unused files that were used for testing at earlier stages of development still in the project.
+
 ### Roadmap:
 Rebuild as a Spring Boot project to make configuring XML and database transactions easier, as well as managing REST endpoints.
  
